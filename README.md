@@ -1,1 +1,1 @@
-![Clases UML](assets/mi-imagen.png)
+![Clases UML](assets/Clase-UML-Cinema.png)
